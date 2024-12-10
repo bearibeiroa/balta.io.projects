@@ -1,1 +1,4 @@
 .vs/Calculator/FileContentIndex/*.vsidx
+bin/
+obj/
+.vs/
